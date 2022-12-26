@@ -15,9 +15,11 @@
 
 ## Description
 ```bash
-- Developed a device tracking system application that it can be used by the University employees.
+- Created the device tracking application during bachelor's internship
 
-- Designed the application using .NET, C# and MSSQL languages.
+- Developed the application that it can be used by the University employees.
+
+- Designed using .NET, C# and MSSQL languages.
 
 - Learned software engineering processes and best practices.
 ```
