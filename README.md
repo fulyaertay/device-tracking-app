@@ -23,9 +23,9 @@
 
 - Designed using .NET, C# and MSSQL languages.
 
-- Users can add/filter their products.
+- Users can add/edit/filter their products.
 
-- Admin can edit/filter users and their products.
+- Admin can list/filter users and their products.
 ```
 
 
