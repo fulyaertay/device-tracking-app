@@ -1,6 +1,6 @@
  
 
-## Project: Device Tarcking App(Internship Project)
+## Project: Device Tracking App(Internship Project)
 
 
 ## Visulation of the App
