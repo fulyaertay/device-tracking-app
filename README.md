@@ -4,7 +4,7 @@
 
 
 ## Visulation of the App
-## Log in screen
+## Log in screen for user/admin
 
 - ![image](./device-tracking.png)
 
