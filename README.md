@@ -4,12 +4,14 @@
 
 
 ## Visulation of the App
-
+## Log in Screen
 
 - ![image](./device-tracking.png)
 
+## Filtered according to category
 - ![image](./device-tracking2.png)
 
+## Filtered according to user's e-mail address
 - ![image](./device-tracking3.png)
 
 
