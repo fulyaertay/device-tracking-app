@@ -23,7 +23,9 @@
 
 - Designed using .NET, C# and MSSQL languages.
 
-- Learned software engineering processes and best practices.
+- Users can add/filter their products.
+
+- Admin can edit/filter users and their products.
 ```
 
 
